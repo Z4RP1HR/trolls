@@ -3,7 +3,7 @@ import sys
 import time
 
 ##### Message Here #####
-print("Welcome to AnonPrixor World")
+print("Welcome to shadow garden")
 time.sleep(2)
 os.system("xdg-open https://4anime.gg/")
 os.system("xdg-open https://check-host.net/")
